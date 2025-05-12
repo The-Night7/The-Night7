@@ -20,8 +20,6 @@
 
 - 🌱 I'm currently learning Python, C, HTML, CSS, JavaScript, PHP.
 
-- 📫 You can reach me at <a href="mailto:myriamthe7@gmail.com">myriamthe7@gmail.com</a>
-
 ### 🛠 &nbsp;Languages and Technologies  
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
