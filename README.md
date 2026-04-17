@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  <a href="https://the-night7.neocities.org/">
+  <a href="https://myriambensaid.vercel.app/">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&random=false&width=435&lines=My+website+right+here+!" alt="Typing SVG" />
   </a>
 </p>
