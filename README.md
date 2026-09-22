@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://myriambensaid.vercel.app/">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=0E75B6&width=480&lines=Ing%C3%A9nieure+CY+Tech+%E2%80%93+sp%C3%A9cialit%C3%A9+Data;R%C3%A9f%C3%A9rente+Technique+%40+Junior-Entreprise+CYJE;Discord+bots+%2B+Minecraft+mods+%2B+wikis+Next.js;Toujours+un+projet+perso+en+cours" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=0E75B6&width=480&lines=%C3%89tudiante+CY+Tech+%E2%80%93+Pr%C3%A9-Ing+2;R%C3%A9f%C3%A9rente+Technique+%40+Junior-Entreprise+CYJE;Discord+bots+%2B+Minecraft+mods+%2B+wikis+Next.js;Toujours+un+projet+perso+en+cours" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 ### 🎓 En bref
 
-- 🎓 Étudiante en école d'ingénieur (Maths-Info) à **CY Tech**, Cergy — en route vers une **alternance ingénieur Data (3 ans)** dès septembre 2026
+- 🎓 Étudiante en cycle préparatoire (Maths-Info) à **CY Tech**, Cergy — actuellement en **Pré-Ing 2** (redoublement)
 - 🧑‍💻 **Responsable Technique** à l'association **At All Cost** — ex-Référente Technique à la Junior-Entreprise **CYJE** (projets menés avec l'Agglomération Cergy-Pontoise)
 - 🛠️ Développeuse full-stack : **Python, Java, PHP, JavaScript, C**
 - 🐧 Environnement : **Arch Linux + KDE Plasma**, Fish shell, VS Code
