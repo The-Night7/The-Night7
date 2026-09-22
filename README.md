@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Night7&theme=nightowl&hide_border=true" alt="Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=The-Night7&theme=nightowl&hide_border=true" alt="Streak"/>
 </p>
 
 ---
