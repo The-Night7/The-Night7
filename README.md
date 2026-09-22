@@ -19,7 +19,7 @@
 
 ### 🎓 En bref
 
-- 🎓 Étudiante en cycle préparatoire (Maths-Info) à **CY Tech**, Cergy — actuellement en **Pré-Ing 2** (redoublement)
+- 🎓 Étudiante en cycle préparatoire (Maths-Info) à **CY Tech**, Cergy — actuellement en **Pré-Ing 2**
 - 🧑‍💻 **Responsable Technique** à l'association **At All Cost** — ex-Référente Technique à la Junior-Entreprise **CYJE** (projets menés avec l'Agglomération Cergy-Pontoise)
 - 🛠️ Développeuse full-stack : **Python, Java, PHP, JavaScript, C**
 - 🐧 Environnement : **Arch Linux + KDE Plasma**, Fish shell, VS Code
