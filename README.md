@@ -20,7 +20,7 @@
 ### 🎓 En bref
 
 - 🎓 Étudiante en école d'ingénieur (Maths-Info) à **CY Tech**, Cergy — en route vers une **alternance ingénieur Data (3 ans)** dès septembre 2026
-- 🧑‍💻 **Référente Technique** à la Junior-Entreprise **CYJE**, projets menés avec l'Agglomération Cergy-Pontoise
+- 🧑‍💻 **Responsable Technique** à l'association **At All Cost** — ex-Référente Technique à la Junior-Entreprise **CYJE** (projets menés avec l'Agglomération Cergy-Pontoise)
 - 🛠️ Développeuse full-stack : **Python, Java, PHP, JavaScript, C**
 - 🐧 Environnement : **Arch Linux + KDE Plasma**, Fish shell, VS Code
 - 🌱 En ce moment : bots Discord, mods Minecraft, wikis Next.js, et de l'écriture créative sur AO3 à côté
