@@ -53,8 +53,8 @@
 ### ⚙️ Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=The-Night7&show_icons=true&locale=fr&theme=nightowl&hide_border=true&count_private=true" alt="Stats" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Night7&layout=compact&locale=fr&theme=nightowl&hide_border=true" alt="Top langages" height="165px"/>
+  <img src="https://github-readme-stats-two-iota-15.vercel.app/api?username=The-Night7&show_icons=true&locale=fr&theme=nightowl&hide_border=true&count_private=true" alt="Stats" height="165px"/>
+  <img src="https://github-readme-stats-two-iota-15.vercel.app/api/top-langs/?username=The-Night7&layout=compact&locale=fr&theme=nightowl&hide_border=true" alt="Top langages" height="165px"/>
 </p>
 
 <p align="center">
