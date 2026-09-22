@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://myriambensaid.vercel.app/">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=0E75B6&width=480&lines=%C3%89tudiante+CY+Tech+%E2%80%93+Pr%C3%A9-Ing+2;Responsable+Technique+%40+At+All+Cost;Discord+bots+%2B+Minecraft+mods+%2B+wikis+Next.js;Toujours+un+projet+perso+en+cours" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=0E75B6&width=600&lines=Etudiante+CY+Tech+-+Pre-Ing+2;Responsable+Technique+%40+At+All+Cost;Discord+bots+%2B+mods+Minecraft+%2B+wikis+Next.js;Toujours+un+projet+perso+en+cours" alt="Typing SVG" />
   </a>
 </p>
 
