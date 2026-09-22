@@ -30,8 +30,6 @@
 | Projet | Description |
 |---|---|
 | 🤖 **CY BOT** | Bot Discord Python qui configure automatiquement les serveurs Discord des étudiants CY Tech |
-| 📖 **kuro-wiki** | Wiki Next.js pour un mod Genshin Impact |
-| ⛏️ **DanganronCraft** | Serveur Minecraft Paper à thème Danganronpa, plugin custom |
 | 🌐 **Portfolio** | [myriambensaid.vercel.app](https://myriambensaid.vercel.app/) — mes projets, centralisés |
 
 ### 🛠️ Stack
