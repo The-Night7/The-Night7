@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Myriam 👋</h1>
-<h3 align="center">alias <a href="https://github.com/The-Night7">The-Night7</a> — CY Tech, Data Engineering</h3>
+<h3 align="center">alias <a href="https://github.com/The-Night7">Myriota</a> — CY Tech, Data Engineering</h3>
 
 <p align="center">
   <a href="https://myriambensaid.vercel.app/">
